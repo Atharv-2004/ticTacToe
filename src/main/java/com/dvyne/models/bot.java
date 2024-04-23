@@ -1,5 +1,7 @@
 package com.dvyne.models;
 
+import com.dvyne.enums.DifficultyLevel;
+
 public class bot extends player {
     private DifficultyLevel difficultyLevel;
 

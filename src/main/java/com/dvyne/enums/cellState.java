@@ -1,4 +1,4 @@
-package com.dvyne.models;
+package com.dvyne.enums;
 
 public class cellState {
     enum State {
